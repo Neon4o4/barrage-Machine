@@ -1,6 +1,6 @@
 <?php
 
-$server_name = "localhost";
+$server_name = "127.0.0.1";
 $sql_user = "Barrage_server";
 $sql_passwd = "123123";
 $database = "Barrage_list";
